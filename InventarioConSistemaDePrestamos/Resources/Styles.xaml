@@ -1,0 +1,48 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!--#region Control's Keys -->
+    
+    <!-- 🎨 Colores base -->
+    <SolidColorBrush x:Key="bg-primary"      Color="#0DE6FD" />
+    <!-- Tu color -->
+    <SolidColorBrush x:Key="bg-primary-dark" Color="#0AA9B9" />
+    <SolidColorBrush x:Key="bg-primary-light" Color="#A3F3FF" />
+
+    <!-- Fondos generales -->
+    <SolidColorBrush x:Key="bg-window"       Color="#0B1120" />
+    <!-- Gris/azul muy oscuro -->
+    <SolidColorBrush x:Key="bg-card"         Color="#111827" />
+    <!-- Paneles / tarjetas -->
+    <SolidColorBrush x:Key="bg-card-alt"     Color="#020617" />
+    <!-- Alternativo / hover -->
+
+    <!-- Texto -->
+    <SolidColorBrush x:Key="fg-primary"      Color="#F9FAFB" />
+    <!-- Texto principal (claro) -->
+    <SolidColorBrush x:Key="fg-secondary"    Color="#D1D5DB" />
+    <!-- Texto secundario -->
+    <SolidColorBrush x:Key="fg-muted"        Color="#9CA3AF" />
+    <!-- Texto deshabilitado / ayuda -->
+
+    <!-- Bordes y divisores -->
+    <SolidColorBrush x:Key="border-subtle"   Color="#1F2937" />
+    <SolidColorBrush x:Key="border-strong"   Color="#4B5563" />
+
+    <!-- Colores de estado -->
+    <SolidColorBrush x:Key="accent"          Color="#F97316" />
+    <!-- Naranja elegante -->
+    <SolidColorBrush x:Key="accent-soft"     Color="#FFEDD5" />
+
+    <SolidColorBrush x:Key="success"         Color="#22C55E" />
+    <SolidColorBrush x:Key="warning"         Color="#EAB308" />
+    <SolidColorBrush x:Key="danger"          Color="#EF4444" />
+
+    <!-- Fuentes -->
+    <FontFamily x:Key="Font.Primary">Segoe UI</FontFamily>
+    <FontFamily x:Key="Font.PrimarySemibold">Segoe UI Semibold</FontFamily>
+
+    
+    <!--#endregion-->
+    
+</ResourceDictionary>
