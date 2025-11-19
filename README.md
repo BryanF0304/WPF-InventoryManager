@@ -1,1 +1,1 @@
-# InventarioConSistemaDePrestamos
+# WPF - Inventory Manager
